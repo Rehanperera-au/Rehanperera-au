@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Rehanperera-au
-- 👀 I’m interested in Cyber Security and Options Trading
-- 🌱 I’m currently learning SEC540
-- 💞️ I’m looking to collaborate on all things application security
-- 📫 How to reach me linkedin or email
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+# Hi, I'm Rehan 👋
 
-<!---
-Rehanperera-au/Rehanperera-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cloud Security leader | Bug bounty learner (Bugcrowd) | Options trader (IBKR) | Smart-home tinkerer
+
+- 🏦 I manage cloud posture across **AWS, Azure & GCP** at a large bank.
+- 🎯 Current goals: ship practical **cloud security cheatsheets**, pass **SANS SEC540 (GCSA)**, and earn consistent **$500/wk options income** (no margin).
+- 🔍 Building: BroadLink RM4 Pro automations for Acmeda blinds, router hardening guides, and red team notes.
+- 🐶 Off the keyboard: Dad of two + two pups (Bailey & Toby).
+
+## Highlights
+- 🛡️ **CloudGuard**: opinionated IaC guardrails + policy-as-code examples
+- 🔍 **Recon-Ops**: web recon notes & Bugcrowd methodology
+- 📈 **IBKR-Options-Playbook**: repeatable income engine templates
+- 🏠 **Home-Sec-Automations**: hub-free security automations
+
+## Skills
+`AWS` `Azure` `GCP` `Python` `Terraform` `Kubernetes` `Docker` `GitHub Actions` `Rego/OPA` `Bash` `YAML`
+
+## Certifications & Study
+- SANS **SEC540 (GCSA)** — exam in Aug 2025; study notes & index included.
+- Ongoing: CSPM, CIEM, DSPM patterns & reference architectures.
+
+## Writing & Talks
+- Cloud posture strategy for enterprises (boards & execs)
+- Practical options income for busy professionals (risk-first)
+
+## Contact
+- LinkedIn: <add link>
+- Email: <add address>
