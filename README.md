@@ -4,7 +4,8 @@ Cloud Security leader | Knows something about AppSec and Cyber | Options trader 
 
 - 🏦 I manage cloud posture across **AWS, Azure & GCP** at a large bank.
 - 🎯 Options trading at night.
-- 🐶 Off the keyboard: Husband, Dad of two + two pups.
+- AI trading bot
+- 🐶 Off the keyboard: Husband, Dad of two + two dogs.
 
 ## Skills
 `AWS` `Azure` `GCP` `Python` `Terraform` `Kubernetes` `Docker` `GitHub Actions` `Rego/OPA` `Bash` `YAML`
